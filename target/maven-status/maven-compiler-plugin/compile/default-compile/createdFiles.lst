@@ -1,0 +1,9 @@
+kpaas\msa\common\KpaasExcepHndlr.class
+kpaas\msa\common\CommonUtil.class
+kpaas\msa\common\KpaasOthersExcepHndlr.class
+kpaas\msa\service\impl\UserServiceImpl.class
+kpaas\msa\common\AuthAspect.class
+kpaas\msa\controller\UserController.class
+kpaas\msa\dao\UserDAO.class
+kpaas\msa\service\UserService.class
+kpaas\msa\common\CommonDAO.class
